@@ -1,5 +1,7 @@
 # RWD Portfolio
 
+[Link to my Deployed Portfolio](https://lydia-mt-portfolio.herokuapp.com/)
+
 ## Overview
 
 For today's lab assignment, you will work independently to create a personal portfolio. You will begin with the provided starter code and modify the contents to complete your feature tasks. Take time to review the provided code base and understand its structure before adding features.
@@ -7,6 +9,8 @@ For today's lab assignment, you will work independently to create a personal por
 ## Resources
 
 - [HTML5 UP templates](https://html5up.net/)
+- [Stock Video for Header](https://www.pexels.com/video/underwater-bubbles-857131/)
+- [How To Create a Fullscreen Video](https://www.w3schools.com/howto/howto_css_fullscreen_video.asp)
 
 ## Repository Set-up
 
@@ -22,15 +26,19 @@ For today's lab assignment, you will work independently to create a personal por
 For each of the features listed below, make an estimate of the time it will take you to complete the feature, and record your start and finish times for that feature:
 
 ```
-Number and name of feature: ________________________________
+Number and name of feature: 
+* Feature #1: Deployment
+* Feature #2: Refactor the CSS
+* Feature #3: Modify the contents
+* Feature #4: Add functionality
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours
 
-Start time: _____
+Start time: 2pm
 
-Finish time: _____
+Finish time: 6pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 4 hours
 ```
 
 Add this information to your README.
