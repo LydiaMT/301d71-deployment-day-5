@@ -9,6 +9,8 @@ For today's lab assignment, you will work independently to create a personal por
 ## Resources
 
 - [HTML5 UP templates](https://html5up.net/)
+- [Stock Video for Header](https://www.pexels.com/video/underwater-bubbles-857131/)
+- [How To Create a Fullscreen Video](https://www.w3schools.com/howto/howto_css_fullscreen_video.asp)
 
 ## Repository Set-up
 
@@ -34,9 +36,9 @@ Estimate of time needed to complete: 2 hours
 
 Start time: 2pm
 
-Finish time: _____
+Finish time: 6pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 4 hours
 ```
 
 Add this information to your README.
